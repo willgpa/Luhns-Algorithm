@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luhns Algorithm", "Luhns Algorithm\Luhns Algorithm.csproj", "{413A59F8-D9CA-4B05-A6F3-692E0DC8D4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{413A59F8-D9CA-4B05-A6F3-692E0DC8D4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413A59F8-D9CA-4B05-A6F3-692E0DC8D4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413A59F8-D9CA-4B05-A6F3-692E0DC8D4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413A59F8-D9CA-4B05-A6F3-692E0DC8D4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC28277A-1FF7-44CD-A46C-20F568EE7AB5}
+	EndGlobalSection
+EndGlobal
