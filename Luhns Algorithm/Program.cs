@@ -1,4 +1,11 @@
-﻿using System;
+﻿/********************************************
+ *                                          *
+ * Name: Bill Nicholson                     *
+ * email: nicholdw@ucmail.uc.edu            *
+ * Luhn's Algorithm                         *
+ *                                          *
+ ********************************************/
+using System;
 
 namespace Luhns_Algorithm
 {
