@@ -3,7 +3,7 @@
  * Name: Bill Nicholson                     *
  * email: nicholdw@ucmail.uc.edu            *
  * Luhn's Algorithm                         *
- *                                             *
+ *                                          *
  ********************************************/
 using System;
 
