@@ -20,9 +20,9 @@ namespace Luhns_Algorithm
                 ccNumber = Console.ReadLine();
                 if (ValidateCard(ccNumber))
                 {
-                    Console.WriteLine("That number is valid.");
+                    Console.WriteLine(ccNumber + " appears to be a valid format.");
                 } else {
-                    Console.WriteLine("That number does not appear to be valid.");
+                    Console.WriteLine("That number does not appear to be a valid format.");
                 }
             }
         }
